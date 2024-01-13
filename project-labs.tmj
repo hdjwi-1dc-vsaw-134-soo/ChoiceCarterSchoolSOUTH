@@ -5135,7 +5135,7 @@
         {
          "name":"mapImage",
          "type":"string",
-         "value":"project-labs-winter.png"
+         "value":"project-labs.png"
         }, 
         {
          "name":"mapName",
